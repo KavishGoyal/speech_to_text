@@ -1,5 +1,5 @@
-streamlit=1.29.0
-transformers=4.36.2
-datasets=2.15.0
-torch=2.1.2+cpu
-soundfile='0.12.1
+streamlit==1.29.0
+transformers==4.36.2
+datasets==2.15.0
+torch==2.1.2+cpu
+soundfile=='0.12.1
