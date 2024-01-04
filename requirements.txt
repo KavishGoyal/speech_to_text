@@ -3,3 +3,4 @@ transformers==4.36.2
 datasets==2.15.0
 torch==2.1.2
 soundfile==0.12.1
+SentencePiece==0.1.99
